@@ -43,5 +43,6 @@ a {
 .scb-content {
     display: block;
     margin: auto;
+    padding: 0 30px;
     max-width: 800px;
 }
