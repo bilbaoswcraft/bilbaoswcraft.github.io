@@ -1,0 +1,47 @@
+body {
+    background-color: #fafafa;
+    margin: 30px 0 60px 0;
+    padding: 0;
+    font-family: Merriweather, serif;
+    font-weight: 300;
+    color: #473c3d;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Overlock, serif;
+    margin-top: .2em;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 16px;
+    line-height: 2;
+}
+
+ul, li {
+    font-family: Merriweather, serif;
+    line-height: 2;
+}
+
+a {
+    color: #DA121A;
+}
+
+.scb-header {
+    color: #DA121A;
+}
+
+.scb-header-title {
+    font-family: Overlock, serif;
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.scb-content {
+    display: block;
+    margin: auto;
+    max-width: 800px;
+}
