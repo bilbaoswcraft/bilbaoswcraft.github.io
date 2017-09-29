@@ -8,8 +8,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Overlock, serif;
+    font-family: Merriweather, serif;
     margin-top: .2em;
+    margin-bottom: .5em;
 }
 
 h1 {
@@ -35,7 +36,8 @@ a {
 }
 
 .scb-header-title {
-    font-family: Overlock, serif;
+    font-family: "Overpass Mono", serif;
+    font-weight: 300;
     font-size: 1.5em;
     margin: 0;
 }
