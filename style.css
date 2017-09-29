@@ -9,8 +9,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: Merriweather, serif;
-    margin-top: .2em;
-    margin-bottom: .5em;
+    margin-top: 1.5em;
 }
 
 h1 {
@@ -47,4 +46,9 @@ a {
     margin: auto;
     padding: 0 30px;
     max-width: 800px;
+}
+
+.scb-title {
+    margin-top: .2em;
+    margin-bottom: .5em;
 }
